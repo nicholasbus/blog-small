@@ -3,32 +3,27 @@
 ## Front-end Options:
 --- 
 ### CSS
-* Tailwind
-* Custom CSS
-* Bootstrap
+* Tailwind - 
+
 
 ### Rendering
-* HTML
-* React
+* HTML - Prototyping
+* React - convert prototype to components
 * Vanila JavaScript
-* jQuery???
+
+* Quill for the blog editor
 
 ## Backend
 ---
 ### Routing / API
-* Express
-* Something else?
+* Express - 
 
 ### Database
-* PostgreSQL
-* mySQL
-* MongoDB
-* Something else?
+* PostgreSQL - 
 
 ### Auth?
-* PassportJS
-* JWT
-* Something else?
+* PassportJS - 
+* JWT - 
 
 ## Hosting (When we get there)
 ---
