@@ -1,4 +1,4 @@
-* git clone --branch development `repo`
+* git clone --branch development `<repo>`
 * git checkout -b first-last
 * git checkout -b feature_name
 * make changes, add, commit* 
